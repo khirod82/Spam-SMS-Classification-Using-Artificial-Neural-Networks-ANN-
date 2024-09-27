@@ -1,0 +1,5 @@
+This project involves building a machine learning model to classify SMS messages as either "spam" or "ham" (non-spam). The dataset used contains 5,574 messages with corresponding labels, and the project implements a Bag-of-Words approach to convert the messages into numerical features. An Artificial Neural Network (ANN) is trained to predict whether a given message is spam or ham, with the model achieving high accuracy.
+
+Inference: The ANN model shows excellent performance, with training and testing accuracies exceeding 98%. The model effectively distinguishes between spam and ham messages, showing strong precision and recall values. Despite minor loss fluctuations during training, the model’s accuracy remains stable across epochs, suggesting robust learning.
+
+Conclusion: This project demonstrates the effective use of ANN for text classification tasks, specifically for spam detection in SMS messages. With an accuracy of 98.3% on the test set, the model is reliable for practical applications in filtering spam messages, contributing to improved user experience in communication systems.
